@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ### My Github's statistics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorescosta&count_private=true&show_icons=true&theme=algolia&hide=prs,contribs)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=victorescosta&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
